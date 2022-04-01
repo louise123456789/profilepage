@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@700&display=swap');
+ h1 { 
+	color: #3E54EB;
+	text-align: center;
+ }
+ h2 {
+ 	color:#3E54EB;
+ 	text-align: center;
+}
+body	{
+font-family: 'Cairo', sans-serif;
+}
+p {
+	color: black;
+	text-align: center;
+}
+li {
+	color: black
+	text-align: center;
+}
+
+.card {
+	width:  700px;
+	margin:  auto;
+	text-align: center;
+	box-shadow: 10px 20px 30px grey;
+	background-color: darkgrey;
+	border-radius:20px;
+	padding:10px 20px;
+	margin-bottom: 40px;
+
+}
+ 
+a{
+	text-decoration: none;
+	color:#3E54EB;
+}
+a:hover {
+	background-color: gold;
+}
+img {
+	width: 200px;
+	height: 200px;
+	margin: auto;
+	border-radius:20px;
+}
+
+body {background-color: #e5e5f7;
+background-color: #e5e5f7;
+opacity: 0.8;
+background-image: radial-gradient(circle at center center, #444cf7, #e5e5f7), repeating-radial-gradient(circle at center center, #444cf7, #444cf7, 10px, transparent 20px, transparent 10px);
+background-blend-mode: multiply;
+background-image: 
+	
+}
+ul {
+	list-style: none;
+	justify-content: space-around;
+	align-items: center;
+}
+#Suivez-moi {
+	font-size: 50px;
+	display: flex;
+
+}
+
+#Expériences {
+	margin: 25px;
+	justify-content: space-between;
+
+}
